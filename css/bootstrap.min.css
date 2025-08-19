@@ -1,0 +1,10 @@
+.course-col{
+    flex-basis: 31%;
+    background:rgb(252, 243, 226);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    cursor: pointer;
+}
